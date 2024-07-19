@@ -1,0 +1,84 @@
+[
+    {
+       "id":1,
+       "name":"Story Book",
+       "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+       "price":0,
+       "category":"Free",
+       "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+    }, 
+
+    {
+        "id":2,
+        "name":"Drawing Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+     {
+        "id":3,
+        "name":"Current Affairs",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+     {
+        "id":4,
+        "name":"DBMS",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+     {
+        "id":5,
+        "name":"Software Engineering",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+     {
+        "id":6,
+        "name":"Software Testing",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+
+     {
+        "id":7,
+        "name":"Computer Network",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":400,
+        "category":"Network",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+     {
+        "id":8,
+        "name":"UI/UX Design",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":550,
+        "category":"UI/UX",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+     {
+        "id":9,
+        "name":"Automata theory",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":600,
+        "category":"Automata",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     },
+     {
+        "id":10,
+        "name":"Compiler Design",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":400,
+        "category":"Compiler",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720525249~exp=1720528849~hmac=9fe006fcfc96de50a2b37e35d53572ed6f93917dc40218670b090069deb50816&w=740"
+     } 
+]
