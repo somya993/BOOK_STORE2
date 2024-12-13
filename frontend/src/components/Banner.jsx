@@ -28,7 +28,7 @@ function banner() {
           </div>
           <button className="btn btn-secondary mt-6">Secondary</button>
         </div>
-        <div className='w-full md:w-1/2 order-1'><img src={Banner} className='w-82 h-82 ' alt="Banner" /></div>
+        <div className='w-full md:w-1/2 order-1 mt-10 ml-5'><img src={Banner} className='w-82 h-82 ' alt="Banner" /></div>
     </div>
     </>
   ); 
